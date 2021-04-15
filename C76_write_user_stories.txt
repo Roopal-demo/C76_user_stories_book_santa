@@ -1,0 +1,41 @@
+                                            Book Santa
+
+User Stories & wireframe
+
+User story=who + what + why
+As a <user type> , I want to <do something-goal> so that I can <some reason>
+As a teacher I want to allow the student to return the book so that the book is back in the library(returning the book)
+As a teacher I want to allow the student to issue the book from the library so that user can take the book (bookk issue)
+
+User stories for book santa(open to all the users)=donor & requeter
+
+1)administrator
+As a administrator , I want users to signup & login so that they are aunthenticated users
+As a administrator , I want to restrict book request so that user can request only for one book at a time
+
+
+2)Users=donor & requestor
+requestor=as a requestor , I want to request for a book (by filling the form)
+as a requestor , I want to receive a notification that someone has agreed to give you the book
+as a requestor , I want to confirm that i received the book
+as a requestor , I want to thank the donor
+
+
+donor=
+as a donor , I want to see all the active requests made by requestors
+as a donor , I want to select the books that i can donate(filter)
+as a donor , I want to look at the address of people so that I can send the book to them
+as a donor , I want to pay for the book online & deliver it if the book is not available with me
+as a donor , I want to send a msg to the requester that I have sent the book to you 
+as a donor , I want to receive the msg that the requestor has got the book
+
+
+Workflow=how things should happen
+1)book request
+Login->click on request book button->if no other request -->fill form for requesting a book-->if not the first time user-->submit-->request becomes live
+
+
+2)book donation
+Login->click on donate book button-->see all book requests-->choose/filter the book to be donated-->respond to book request by sending the book
+
+
